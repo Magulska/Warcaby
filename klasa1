@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Zadanie1 {
 	public static void main(String[] args) {
 		
@@ -12,7 +13,7 @@ public class Zadanie1 {
 			System.out.println("Liczba "+a+" jest parzysta.");
 		}
 		else {
-			System.out.println("Liczba "+a+" jest nieparzysta.");
+			System.out.println("Liczba "+a+" jest    nieparzysta.");
 		}
 }
 }
